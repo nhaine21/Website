@@ -1,0 +1,38 @@
+.title {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+color: rgb(5, 46, 169);
+text-align: center;
+}
+
+.subtitle {
+font-style: italic;
+font-size: 30px;
+}
+
+.underline {text-decoration: underline;}
+
+.div1 {
+    border: 5px outset rgb(5, 46, 169);
+    background-color: lightblue;
+    text-align: center;
+}
+
+.div2 {
+    border: 5px outset rgb(5, 46, 169);
+    background-color: lightblue;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+.div3 {
+    border: 5px outset rgb(232, 234, 239);
+    background-color: lightblue;
+    text-align: center;
+    color: black;
+    height: 30px;
+    width: 526px;
+}
